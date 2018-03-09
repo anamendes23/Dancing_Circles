@@ -1,0 +1,10 @@
+C:\Users\ana_c\Documents\RTC\2 quarter\CSI 154 Intro to visual c\Assignments\10.1Dancing_Circles\10.1Dancing_Circles\bin\Debug\10.1Dancing_Circles.exe.config
+C:\Users\ana_c\Documents\RTC\2 quarter\CSI 154 Intro to visual c\Assignments\10.1Dancing_Circles\10.1Dancing_Circles\bin\Debug\10.1Dancing_Circles.exe
+C:\Users\ana_c\Documents\RTC\2 quarter\CSI 154 Intro to visual c\Assignments\10.1Dancing_Circles\10.1Dancing_Circles\bin\Debug\10.1Dancing_Circles.pdb
+C:\Users\ana_c\Documents\RTC\2 quarter\CSI 154 Intro to visual c\Assignments\10.1Dancing_Circles\10.1Dancing_Circles\obj\Debug\10.1Dancing_Circles.csprojResolveAssemblyReference.cache
+C:\Users\ana_c\Documents\RTC\2 quarter\CSI 154 Intro to visual c\Assignments\10.1Dancing_Circles\10.1Dancing_Circles\obj\Debug\_10._1Dancing_Circles.Form1.resources
+C:\Users\ana_c\Documents\RTC\2 quarter\CSI 154 Intro to visual c\Assignments\10.1Dancing_Circles\10.1Dancing_Circles\obj\Debug\_10._1Dancing_Circles.Properties.Resources.resources
+C:\Users\ana_c\Documents\RTC\2 quarter\CSI 154 Intro to visual c\Assignments\10.1Dancing_Circles\10.1Dancing_Circles\obj\Debug\10.1Dancing_Circles.csproj.GenerateResource.Cache
+C:\Users\ana_c\Documents\RTC\2 quarter\CSI 154 Intro to visual c\Assignments\10.1Dancing_Circles\10.1Dancing_Circles\obj\Debug\10.1Dancing_Circles.csproj.CoreCompileInputs.cache
+C:\Users\ana_c\Documents\RTC\2 quarter\CSI 154 Intro to visual c\Assignments\10.1Dancing_Circles\10.1Dancing_Circles\obj\Debug\10.1Dancing_Circles.exe
+C:\Users\ana_c\Documents\RTC\2 quarter\CSI 154 Intro to visual c\Assignments\10.1Dancing_Circles\10.1Dancing_Circles\obj\Debug\10.1Dancing_Circles.pdb
